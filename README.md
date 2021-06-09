@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lanhybrid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, MySQL, Git, Linux, AWS Cloud
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Java, MySQL, Git, Linux, AWS Cloud
 - 📫 How to reach me: lan.mascarin@gmail.com
 
 <!---
